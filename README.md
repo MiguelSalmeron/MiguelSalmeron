@@ -10,6 +10,7 @@ I'm a passionate and disciplined student from Nicaragua, currently on a self-tau
 - 💡 My main interests are Web Development, Cloud Computing, and I'm fascinated by the potential of AI.
 - 🥅 My goal for 2025-2026 is to master the full-stack JavaScript ecosystem (MERN) and get my first cloud certification.
 - ⚡ Fun fact: Besides coding, I'm also skilled in hands-on tech like cell phone repair!
+- https://gravatar.com/pleasantly264b650543
 
 <br/>
 
