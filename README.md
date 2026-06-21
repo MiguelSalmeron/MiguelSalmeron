@@ -53,5 +53,7 @@ Creo firmemente que la tecnología es la herramienta más precisa para estructur
 
 <br/>
 
+https://github-readme-stats.hackclub.dev/api/wakatime?username=22550&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=
+
 ---
 <p align="center"><i>"La eficiencia es la inteligencia en su forma más pura."</i></p>
