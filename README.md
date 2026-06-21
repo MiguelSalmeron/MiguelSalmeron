@@ -1,14 +1,20 @@
-<h1 align="center">Miguel Ángel Salmerón</h1>
-<h3 align="center">Software Developer & Tech Founder 🇳🇮</h3>
+<div align="center">
+  <a href="https://lifeplants.org" target="_blank">
+    <img src="https://lifeplants.org/logo.png" alt="Lifeplants" width="120" style="border-radius: 10px; margin-bottom: 15px;"/>
+  </a>
+  
+  <h1>Miguel Ángel Salmerón</h1>
+  <h3>Software Developer & Tech Founder 🇳🇮</h3>
 
-<p align="center">
-  <a href="mailto:miguel.salmeron.dev@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-miguel%40lifeplants.org-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/miguelsalmeron">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
-  </a>
-</p>
+  <p>
+    <a href="mailto:miguel@lifeplants.org">
+      <img alt="Email" src="https://img.shields.io/badge/Email-miguel.salmeron.dev%40gmail.com-blue?style=flat-square&logo=gmail">
+    </a>
+    <a href="https://github.com/miguelsalmeron">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
+    </a>
+  </p>
+</div>
 
 <br/>
 
@@ -24,32 +30,9 @@ Creo firmemente que la tecnología es la herramienta más precisa para estructur
 
 <br/>
 
-<div align="center">
-  <a href="https://lifeplants.org" target="_blank">
-    <img src="https://lifeplants.org/logo.png" alt="Lifeplants" width="120" style="border-radius: 10px; margin-bottom: 15px;"/>
-  </a>
-  
-  <h1>Miguel Ángel Salmerón</h1>
-  <h3>Software Developer & Tech Founder 🇳🇮</h3>
-
-  <p>
-    <a href="mailto:miguel.salmeron.dev@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-miguel.salmeron.dev%40gmail.com-blue?style=flat-square&logo=gmail">
-    </a>
-    <a href="https://github.com/miguelsalmeron">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
-    </a>
-  </p>
-</div>
-
-<br/>
-
-Creo firmemente que la tecnología es la herramienta más precisa para estructurar soluciones y catalizar el cambio. Como desarrollador autodidacta y Director General, me especializo en construir arquitecturas eficientes y liderar proyectos con impacto.
-
 ### 🔧 Arsenal Tecnológico
 
 <p align="left">
-  <!-- Lenguajes y Frontend -->
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -59,7 +42,6 @@ Creo firmemente que la tecnología es la herramienta más precisa para estructur
 </p>
 
 <p align="left">
-  <!-- Backend, Herramientas e IA (Insignias Minimalistas) -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <br><br>
@@ -68,5 +50,8 @@ Creo firmemente que la tecnología es la herramienta más precisa para estructur
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
+
+<br/>
+
 ---
 <p align="center"><i>"La eficiencia es la inteligencia en su forma más pura."</i></p>
