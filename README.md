@@ -24,6 +24,28 @@ Creo firmemente que la tecnología es la herramienta más precisa para estructur
 
 <br/>
 
+<div align="center">
+  <a href="https://lifeplants.org" target="_blank">
+    <img src="https://lifeplants.org/logo.png" alt="Lifeplants" width="120" style="border-radius: 10px; margin-bottom: 15px;"/>
+  </a>
+  
+  <h1>Miguel Ángel Salmerón</h1>
+  <h3>Software Developer & Tech Founder 🇳🇮</h3>
+
+  <p>
+    <a href="mailto:miguel.salmeron.dev@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-miguel.salmeron.dev%40gmail.com-blue?style=flat-square&logo=gmail">
+    </a>
+    <a href="https://github.com/miguelsalmeron">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
+    </a>
+  </p>
+</div>
+
+<br/>
+
+Creo firmemente que la tecnología es la herramienta más precisa para estructurar soluciones y catalizar el cambio. Como desarrollador autodidacta y Director General, me especializo en construir arquitecturas eficientes y liderar proyectos con impacto.
+
 ### 🔧 Arsenal Tecnológico
 
 <p align="left">
