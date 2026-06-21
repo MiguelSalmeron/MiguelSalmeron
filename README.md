@@ -1,31 +1,49 @@
-Hi there, I'm Miguel 👋
+<h1 align="center">Miguel Ángel Salmerón</h1>
+<h3 align="center">Software Developer & Tech Founder 🇳🇮</h3>
 
-<br/>
-
-I'm a passionate and disciplined student from Nicaragua, currently on a self-taught journey to become a world-class Software Developer. I believe technology is the most powerful tool for creating solutions and driving change.
-
-<br/>
-
-- 🌱 I’m currently diving deep into Harvard's CS50 to build a solid Computer Science foundation.
-- 💡 My main interests are Web Development, Cloud Computing, and I'm fascinated by the potential of AI.
-- 🥅 My goal for 2025-2026 is to master the full-stack JavaScript ecosystem (MERN) and get my first cloud certification.
-- ⚡ Fun fact: Besides coding, I'm also skilled in hands-on tech like cell phone repair!
-- https://gravatar.com/pleasantly264b650543
-
-<br/>
-
- 🔧 Technologies & Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="center">
+  <a href="mailto:miguel.salmeron.dev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-miguel.salmeron.dev%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/miguelsalmeron">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
+  </a>
 </p>
 
- 📫 How to reach me: miguel.salmeron.dev@gmail.com
+<br/>
 
+Creo firmemente que la tecnología es la herramienta más precisa para estructurar soluciones y catalizar el cambio. Como desarrollador autodidacta y Director General, me especializo en construir arquitecturas eficientes y liderar proyectos con impacto ambiental y educativo.
 
+### ⚙️ Estado Operativo Actual
+
+- 🚀 **Liderando:** Desarrollo y expansión técnica de la plataforma **Lifeplants** y el programa **SDEAM**.
+- 🧠 **Desarrollando:** Arquitecturas de integración de IA, incluyendo la optimización del asistente **RAIZ**.
+- 🌱 **Estudiando:** Cimentando bases de rigor académico con **CS50** de Harvard.
+- 🎯 **Objetivos:** Dominar arquitecturas Full-Stack (Python/React) y asegurar certificaciones Cloud.
+- ⚡ **Dato Técnico:** Mi experiencia abarca desde el software de alto nivel hasta la reparación física de hardware y gestión de sistemas Linux.
+
+<br/>
+
+### 🔧 Arsenal Tecnológico
+
+<p align="left">
+  <!-- Lenguajes y Frontend -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  
+  <!-- Backend, DB y Cloud -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  
+  <!-- Herramientas y SO -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+<br/>
+
+---
+<p align="center"><i>"La eficiencia es la inteligencia en su forma más pura."</i></p>
